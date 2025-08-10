@@ -1,0 +1,18 @@
+### User Information Setup
+
+These commands configure your user name and email, which Git uses to identify your contributions in every repository on your local machine.
+
+* `git config --global user.name "[firstname lastname]"`
+    * This command sets the **author name** that will be recorded in the commit history. It's best to use your actual name so others can easily identify your work.
+
+* `git config --global user.email "[valid-email]"`
+    * This command sets the **email address** associated with your commits. It's important to use a valid email, as it's often linked to your account on services like GitHub.
+
+***
+
+### Command Line Beautification
+
+This command enhances the readability of Git's output in your terminal.
+
+* `git config --global color.ui auto`
+    * This command enables **automatic coloring** for your command-line output. It makes it much easier to read and understand the different parts of a Git status, diff, or log.
