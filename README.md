@@ -1,3 +1,1 @@
-# jst4fun hehe
-hj
-ggg
+JUST SOME RAND()
